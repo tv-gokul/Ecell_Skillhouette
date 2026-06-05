@@ -47,7 +47,7 @@ export default function Header({
             )}
           </div>
           <h1 className="text-xl md:text-3xl font-extrabold tracking-tight bg-clip-text text-transparent bg-gradient-to-r from-white via-slate-100 to-slate-400 mt-0.5 uppercase">
-            {eventName || "E-Sports Arena Championship"}
+            {eventName || "skillhouette leaderboard"}
           </h1>
         </div>
       </div>

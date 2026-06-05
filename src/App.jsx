@@ -12,7 +12,7 @@ import { Award, Play } from "lucide-react";
 // Default settings
 const DEFAULT_CONFIG = {
   sheetUrlOrId: "https://docs.google.com/spreadsheets/d/1p3PH2fY5K9X6YRQyKyz7w7-kaL4TrrfGjpvBJntocdU/edit?gid=1512161882#gid=1512161882",
-  eventName: "Skillhouette 26",
+  eventName: "skillhouette leaderboard",
   logoUrl: "",
   refreshInterval: 10, // seconds
   autoScrollEnabled: false,
